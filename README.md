@@ -11,25 +11,25 @@ Information Security Management<br>June 2024
 <br>
 
 ## Table of Contents
-### [Unit 1 - An Introduction to Python Programming and the OO Programming Paradigm](/Unit01/)
+### [Unit 1 - An Introduction to Security and Risk Management]((https://www.my-course.co.uk/course/view.php?id=11884&section=7)
 - Codio activities
 - e-Portfolio activities
 - Collaborative discussion 1 - Initial post
 
-### [Unit 2](/Unit02/) - [Object Oriented Analysis - Initial Steps towards Programming in Python](https://www.my-course.co.uk/course/view.php?id=11400&section=9)
+### [Unit 2](/Unit02/) - [Threat Modelling Exercises](https://www.my-course.co.uk/course/view.php?id=11884&section=8)
 - Codio and Optional Extension activities
 - Collaborative discussion 1 - Peer responses
 
-### [Unit 3](/Unit03/) - [Unified Modelling Language (UML)](https://www.my-course.co.uk/course/view.php?id=11400&section=10)
+### [Unit 3](/Unit03/) - [Introduction to Threat Modelling and Management](https://www.my-course.co.uk/course/view.php?id=11884&section=9)
 - e-Portfolio activities
 - Collaborative discussion 1 - Summary post
 
-### [Unit 4](/Unit04/) - [Applying a UML Model to a Program Implementation: UML in Practice](https://www.my-course.co.uk/course/view.php?id=11400&section=11)
+### [Unit 4](/Unit04/) - [Security Standards, Frameworks and Disaster Recovery](https://www.my-course.co.uk/course/view.php?id=11884&section=10)
 - No activities
 
-### [Unit 5](/Unit05/) - [More on Classes](https://www.my-course.co.uk/course/view.php?id=11400&section=12)
+### [Unit 5](/Unit05/) - [Future Trends in Security and Risk Management](https://www.my-course.co.uk/course/view.php?id=11884&section=11)
 - Codio activities
 - e-Portfolio activities
 
-### [Unit 6](/Unit06/) - [Abstract Methods and Interfaces](https://www.my-course.co.uk/course/view.php?id=11400&section=13)
+### [Unit 6](/Unit06/) - [The Great Debate - What Will be the Most Influential Trend in ISM in the Next 5 Years?](https://www.my-course.co.uk/course/view.php?id=11884&section=12)
 - Codio activities
