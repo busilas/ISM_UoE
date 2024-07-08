@@ -11,7 +11,7 @@ Information Security Management<br>June 2024
 <br>
 
 ## Table of Contents
-### [Unit 1](/Unit01/) - [An Introduction to Security and Risk Management](https://www.my-course.co.uk/course/view.php?id=11884&section=7))
+### [Unit 1](/Unit01/) - [An Introduction to Security and Risk Management](https://www.my-course.co.uk/course/view.php?id=11884&section=7)
 - Codio and Optional Extension activities
 - Collaborative discussion 1 - Peer responses
 
