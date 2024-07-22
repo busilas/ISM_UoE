@@ -1,0 +1,25 @@
+{
+    "name": "Root",
+    "children": [
+        {
+            "name": "Unauthorized Access to Network",
+            "value": 0,
+            "children": []
+        },
+        {
+            "name": "Fake Emails from Customers",
+            "value": 0,
+            "children": []
+        },
+        {
+            "name": "Manipulation of Sales Records",
+            "value": 0,
+            "children": []
+        },
+        {
+            "name": "Data Breaches",
+            "value": 0,
+            "children": []
+        }
+    ]
+}
