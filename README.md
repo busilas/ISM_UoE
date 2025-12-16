@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="https://www.i-success.org/wp-content/uploads/2018/09/uoe-logo-1500x544.jpg" alt="logo)" height="120"/>
+<img src="https://github.com/busilas/cib/blob/main/UOElogo.png" alt="logo)" height="240"/>
 </p>
 
 <h1 align="center">
